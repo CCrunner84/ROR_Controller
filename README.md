@@ -1,2 +1,2 @@
-# P1AM-100_ROR_Controller
- ProductivityOpen P1AM-100 ROR Controller
+# ROR_Controller
+Roll Off Roof Observatory Controller using ProductivityOpen P1AM-100 CPU & Modules
