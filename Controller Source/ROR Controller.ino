@@ -1,17 +1,9 @@
-// Visual Micro is in vMicro>General>Tutorial Mode
-// 
 /*
 	Name:       ROR Controller.ino
-	Created:	12/15/2020 3:13:50 PM
-	Author:     DESKTOP-SRSDC1H\ccrun
+	Created:    12/15/2020 3:13:50 PM
+	Author:     Nick Baker - ccrunner84@gmail.com
 */
 
-// Define User Types below here or use a .h file
-//
-
-
-// Define Function Prototypes that use User Types below here or use a .h file
-//
 #include <P1AM.h>
 #include <SPI.h>
 #include <Ethernet.h>
@@ -19,8 +11,6 @@
 #include <ArduinoJson.hpp>
 #include <string.h>
 
-// Define Functions below here or use other .ino or cpp files
-//
 
 //Set MAC Address
 byte mac[] = { 0x60, 0x52, 0xD0, 0x06, 0x8F, 0x21 };
