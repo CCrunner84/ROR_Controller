@@ -1,0 +1,26 @@
+C:\Users\Nick Baker\Documents\Visual Studio 2013\Projects\MAS_Dome\Test_App\bin\Release\ASCOM.MAS_Dome.Test.exe.config
+C:\Users\Nick Baker\Documents\Visual Studio 2013\Projects\MAS_Dome\Test_App\bin\Release\ASCOM.MAS_Dome.Test.exe
+C:\Users\Nick Baker\Documents\Visual Studio 2013\Projects\MAS_Dome\Test_App\bin\Release\ASCOM.MAS_Dome.Test.pdb
+C:\Users\Nick Baker\Documents\Visual Studio 2013\Projects\MAS_Dome\Test_App\obj\x86\Release\ASCOM.MAS_Dome.Form1.resources
+C:\Users\Nick Baker\Documents\Visual Studio 2013\Projects\MAS_Dome\Test_App\obj\x86\Release\ASCOM.MAS_Dome.Properties.Resources.resources
+C:\Users\Nick Baker\Documents\Visual Studio 2013\Projects\MAS_Dome\Test_App\obj\x86\Release\Test_App.csproj.GenerateResource.Cache
+C:\Users\Nick Baker\Documents\Visual Studio 2013\Projects\MAS_Dome\Test_App\obj\x86\Release\ASCOM.MAS_Dome.Test.exe
+C:\Users\Nick Baker\Documents\Visual Studio 2013\Projects\MAS_Dome\Test_App\obj\x86\Release\ASCOM.MAS_Dome.Test.pdb
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Release\ASCOM.MAS_Dome.Test.exe.config
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Release\ASCOM.MAS_Dome.Test.exe
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Release\ASCOM.MAS_Dome.Test.pdb
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Release\ASCOM.DeviceInterfaces.dll
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Release\ASCOM.DriverAccess.dll
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Release\ASCOM.Utilities.dll
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Release\ASCOM.Exceptions.dll
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Release\ASCOM.DeviceInterfaces.xml
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Release\ASCOM.DriverAccess.xml
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Release\ASCOM.Utilities.xml
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Release\ASCOM.Exceptions.xml
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\obj\x86\Release\ASCOM.MAS_Dome.Form1.resources
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\obj\x86\Release\ASCOM.MAS_Dome.Properties.Resources.resources
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\obj\x86\Release\Test_App.csproj.GenerateResource.Cache
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\obj\x86\Release\Test_App.csproj.CoreCompileInputs.cache
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\obj\x86\Release\ASCOM.MAS_Dome.Test.exe
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\obj\x86\Release\ASCOM.MAS_Dome.Test.pdb
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\obj\x86\Release\Test_App.csprojResolveAssemblyReference.cache

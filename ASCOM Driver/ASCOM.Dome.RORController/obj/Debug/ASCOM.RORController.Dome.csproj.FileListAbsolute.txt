@@ -1,0 +1,62 @@
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.Properties.Resources.resources
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.SetupDialogForm.resources
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.Dome.csproj.GenerateResource.cache
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.Dome.csproj.CoreCompileInputs.cache
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.RORController.Dome.dll.config
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.RORController.Dome.dll
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.RORController.Dome.pdb
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.Attributes.dll
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.Controls.dll
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.Utilities.dll
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.Utilities.Video.dll
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.Astrometry.xml
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.Attributes.xml
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.Controls.xml
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.DeviceInterfaces.xml
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.Exceptions.xml
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.SettingsProvider.xml
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.Utilities.xml
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.Internal.Extensions.xml
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.Dome.csproj.CopyComplete
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.Dome.dll
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.Dome.pdb
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\ASCOM.RORController.Dome.tlb
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.Dome.csprojAssemblyReference.cache
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ccrun\source\repos\ASCOM.Dome.RORController\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.RORController.Dome.dll.config
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.RORController.Dome.dll
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.RORController.Dome.pdb
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.Attributes.dll
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.Controls.dll
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.Utilities.dll
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.Utilities.Video.dll
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.Astrometry.xml
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.Attributes.xml
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.Controls.xml
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.DeviceInterfaces.xml
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.Exceptions.xml
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.SettingsProvider.xml
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.Utilities.xml
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.Internal.Extensions.xml
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.Dome.csprojAssemblyReference.cache
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.Properties.Resources.resources
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.SetupDialogForm.resources
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.Dome.csproj.GenerateResource.cache
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.Dome.csproj.CoreCompileInputs.cache
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.Dome.csproj.CopyComplete
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.Dome.dll
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\obj\Debug\ASCOM.RORController.Dome.pdb
+C:\Users\ccrun\Desktop\ASCOM Driver\ASCOM.Dome.RORController\bin\Debug\ASCOM.RORController.Dome.tlb

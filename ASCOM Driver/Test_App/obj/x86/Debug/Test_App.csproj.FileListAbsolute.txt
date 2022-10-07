@@ -1,0 +1,44 @@
+c:\Users\nick baker\documents\visual studio 2013\Projects\MAS_Dome\Test_App\bin\Debug\ASCOM.MAS_Dome.Test.exe.config
+c:\Users\nick baker\documents\visual studio 2013\Projects\MAS_Dome\Test_App\bin\Debug\ASCOM.MAS_Dome.Test.exe
+c:\Users\nick baker\documents\visual studio 2013\Projects\MAS_Dome\Test_App\bin\Debug\ASCOM.MAS_Dome.Test.pdb
+c:\Users\nick baker\documents\visual studio 2013\Projects\MAS_Dome\Test_App\obj\x86\Debug\ASCOM.MAS_Dome.Form1.resources
+c:\Users\nick baker\documents\visual studio 2013\Projects\MAS_Dome\Test_App\obj\x86\Debug\ASCOM.MAS_Dome.Properties.Resources.resources
+c:\Users\nick baker\documents\visual studio 2013\Projects\MAS_Dome\Test_App\obj\x86\Debug\Test_App.csproj.GenerateResource.Cache
+c:\Users\nick baker\documents\visual studio 2013\Projects\MAS_Dome\Test_App\obj\x86\Debug\ASCOM.MAS_Dome.Test.exe
+c:\Users\nick baker\documents\visual studio 2013\Projects\MAS_Dome\Test_App\obj\x86\Debug\ASCOM.MAS_Dome.Test.pdb
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Debug\ASCOM.MAS_Dome.Test.exe.config
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Debug\ASCOM.MAS_Dome.Test.exe
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Debug\ASCOM.MAS_Dome.Test.pdb
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Debug\ASCOM.DriverAccess.dll
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Debug\ASCOM.Utilities.dll
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Debug\ASCOM.DeviceInterfaces.xml
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Debug\ASCOM.DriverAccess.xml
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Debug\ASCOM.Utilities.xml
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\bin\Debug\ASCOM.Exceptions.xml
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\obj\x86\Debug\Test_App.csprojResolveAssemblyReference.cache
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\obj\x86\Debug\ASCOM.MAS_Dome.Form1.resources
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\obj\x86\Debug\ASCOM.MAS_Dome.Properties.Resources.resources
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\obj\x86\Debug\Test_App.csproj.GenerateResource.Cache
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\obj\x86\Debug\Test_App.csproj.CoreCompileInputs.cache
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\obj\x86\Debug\ASCOM.MAS_Dome.Test.exe
+C:\Users\MAS\source\repos\MAS_Dome\Test_App\obj\x86\Debug\ASCOM.MAS_Dome.Test.pdb
+C:\Users\ccrun\source\repos\Test_App\bin\Debug\ASCOM.MAS_Dome.Test.exe.config
+C:\Users\ccrun\source\repos\Test_App\bin\Debug\ASCOM.MAS_Dome.Test.exe
+C:\Users\ccrun\source\repos\Test_App\bin\Debug\ASCOM.MAS_Dome.Test.pdb
+C:\Users\ccrun\source\repos\Test_App\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\ccrun\source\repos\Test_App\bin\Debug\ASCOM.DriverAccess.dll
+C:\Users\ccrun\source\repos\Test_App\bin\Debug\ASCOM.Utilities.dll
+C:\Users\ccrun\source\repos\Test_App\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\ccrun\source\repos\Test_App\bin\Debug\ASCOM.DeviceInterfaces.xml
+C:\Users\ccrun\source\repos\Test_App\bin\Debug\ASCOM.DriverAccess.xml
+C:\Users\ccrun\source\repos\Test_App\bin\Debug\ASCOM.Utilities.xml
+C:\Users\ccrun\source\repos\Test_App\bin\Debug\ASCOM.Exceptions.xml
+C:\Users\ccrun\source\repos\Test_App\obj\x86\Debug\ASCOM.MAS_Dome.Form1.resources
+C:\Users\ccrun\source\repos\Test_App\obj\x86\Debug\ASCOM.MAS_Dome.Properties.Resources.resources
+C:\Users\ccrun\source\repos\Test_App\obj\x86\Debug\Test_App.csproj.GenerateResource.cache
+C:\Users\ccrun\source\repos\Test_App\obj\x86\Debug\Test_App.csproj.CoreCompileInputs.cache
+C:\Users\ccrun\source\repos\Test_App\obj\x86\Debug\Test_App.csproj.CopyComplete
+C:\Users\ccrun\source\repos\Test_App\obj\x86\Debug\ASCOM.MAS_Dome.Test.exe
+C:\Users\ccrun\source\repos\Test_App\obj\x86\Debug\ASCOM.MAS_Dome.Test.pdb
